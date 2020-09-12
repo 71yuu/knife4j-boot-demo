@@ -1,0 +1,10 @@
+# Compiled class file
+*.class
+
+# IDEA
+.idea
+
+# Spring Boot
+*mvn*
+HELP.md
+*iml
